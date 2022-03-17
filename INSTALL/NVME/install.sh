@@ -13,7 +13,7 @@
 #sh ~/configs/10_table/table.sh
 #sh ~/configs/11_user/user.sh
 #sh ~/configs/12_driver/driver.sh
-
+# $ sudo systemctl start sshd
 #
 
 sh configs/1_partition/partition.sh
