@@ -1,6 +1,6 @@
 # install_arch
 
-https://github.com/Liberty0day/ALONECRY.git
+yes |pacman -Syu git;git clone https://github.com/Liberty0day/ALONECRY.git
 
 ```
 rufu iso == UFEI
